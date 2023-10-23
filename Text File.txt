@@ -5,3 +5,4 @@ Unit Testing is a Whitebox Testing
 Integeation Testing is the combined execution of two or more classes, packages, components, or subsystems that have been created by multiple programmers or programming teams.
 Integration Testing is conducted by multiple programmers or programming teams.
 Integration Testing is a Blackbox Testing.
+  
