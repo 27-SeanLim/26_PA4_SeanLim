@@ -2,7 +2,23 @@ Unit Testing is to test the smallest units oe software components in a program.
 Unit Testing is conducted by the developer using development tools in his IDE.
 Unit Testing is a Whitebox Testing
 
-Integeation Testing is the combined execution of two or more classes, packages, components, or subsystems that have been created by multiple programmers or programming teams.
+Integration Testing is the combined execution of two or more classes, packages, components, or subsystems that have been created by multiple programmers or programming teams.
 Integration Testing is conducted by multiple programmers or programming teams.
 Integration Testing is a Blackbox Testing.
-  
+
+
+Acceptance testing is the equivalent to beta testing in the gaming world in the final stage
+Acceptance testing is usually tested out by customers and end-users
+Acceptance testing is a  blackbox testing
+
+
+System testing is the execution of the software in its final configuration, including integration with other software and hardware systems.
+System Testing is usually done by the testing team.
+System testing is a whitebox testing.
+
+Updated by 32-Jasper
+
+
+
+
+ 
